@@ -1,9 +1,3 @@
-# Bobis-Bakery-Restaurant
-“Bobi’s Bakery &amp; Restaurant Website offers customer login, browsing, online booking, dashboard, admin control &amp; secure payments. Built with React, Node.js, Express, and MongoDB to boost online presence and enhance ordering for cakes, pastries, breads, and bakery products.”
-
-
-
-
 # Bobi’s Bakery & Restaurant Website
 
 Bobi’s Bakery & Restaurant, established in 1963 in Gorakhpur (UP), is one of the city’s most famous premium bakeries. Having already built a strong presence in the breads & buns market in the UP-East region, they now aim to expand their cake and restaurant business. Currently, they have no dedicated online presence (beyond food delivery apps), so this website project will help them increase their digital reach and brand recognition.
